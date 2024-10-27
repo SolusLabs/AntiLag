@@ -1,0 +1,8 @@
+name: AntiLag
+version: '1.0.0'
+main: net.soluslab.antiLag.Main
+api-version: '1.21'
+
+commands:
+  test:
+    description: A Simple test Command xD
